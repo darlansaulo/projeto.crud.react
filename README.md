@@ -1,1 +1,3 @@
-Projeto feito em React para sistema web de cadastro de usuários.
+Aplicação React C.R.U.D
+
+Projeto simplificado para demonstrar uma tela de cadastro de usuários.
